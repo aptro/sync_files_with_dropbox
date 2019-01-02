@@ -1,0 +1,10 @@
+[
+    {
+        "dropbox_path": "/macbook/my_server.pem",
+        "local_path": "/Users/john.doe/.ssh/my_server.pem"
+    },
+    {
+        "dropbox_path": "/macbook/my_id_rsa",
+        "local_path": "/Users/john.doe/.ssh/id_rsa"
+    }
+]
