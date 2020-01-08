@@ -1,4 +1,4 @@
-> This script is useful if you have important files scattered all over the hard drive and you don't want to loose when your computer screws up.
+> This script is useful if you have important files scattered all over the hard drive and you don't want to loose when your computer gets screwed up.
 
 #### Setup
 
