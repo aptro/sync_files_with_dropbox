@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "dropbox": "^4.0.14",
-    "isomorphic-fetch": "^2.2.1"
+    "isomorphic-fetch": "^3.0.0"
   }
 }
